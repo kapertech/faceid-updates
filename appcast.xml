@@ -3,6 +3,17 @@
     <channel>
         <title>Face ID</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Tue, 03 Nov 2026 15:48:15 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://kapertech.github.io/faceid-updates/FaceID-1.1.1.zip" length="2482769" type="application/octet-stream" sparkle:edSignature="H793njmLITXcz385nufNjxoHx87zT1AUiacCQEufKIIUR6QRQ43zAvbQuAY5PRL4hhRqj4wnzvecTGI4isJIAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kapertech.github.io/faceid-updates/Face%20ID3-2.delta" sparkle:deltaFrom="2" length="235346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oNRMfMcFfbtbUyRwMwDKCTZYTJmhwG2EK0UDvTLBZXQsyRAobVm4cckWKUSFXEJ7Tx8b/OUiSdTmCX9NFN7oCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Tue, 03 Nov 2026 15:43:54 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
