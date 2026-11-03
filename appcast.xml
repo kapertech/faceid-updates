@@ -3,12 +3,26 @@
     <channel>
         <title>Face ID</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Tue, 03 Nov 2026 18:17:06 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://facey.kaper.tech/Facey-1.3.1.zip" length="2523171" type="application/octet-stream" sparkle:edSignature="JXF44NJWy/sSf/M7h/4RkEsVVQYHioM8I/fAqe83LXkV2wMyN5yYObBD8hheZRnZyh4devzip7XLBkqLoKFvDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://facey.kaper.tech/Facey6-5.delta" sparkle:deltaFrom="5" length="12018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E2QUaFxNkbIqdE6VpkHOvmfNYTN8P15I1WpK8FdXeCOvOykcd3/O44YXux+eGdL3B7+A5CLKxWcEbLf2JsrJCQ=="/>
+                <enclosure url="https://facey.kaper.tech/Facey6-4.delta" sparkle:deltaFrom="4" length="101910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dMxq7MMmfNxZzEMldVBxwTQJce7m01HaTr7ScTCtZ6LsD5EVxr7bQe9Z6z5IsLs6XBhiawghVVVNU0PmaZJSAw=="/>
+                <enclosure url="https://facey.kaper.tech/Facey6-3.delta" sparkle:deltaFrom="3" length="210314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SzNXMvsmiyty7gc86XKo+hrB+XqDBfsg6/ye0+zx443rmP0u6jXX/0UXPXQE0KwwS+U9hGPvfkfljz6aYE/8DQ=="/>
+                <enclosure url="https://facey.kaper.tech/Facey6-2.delta" sparkle:deltaFrom="2" length="354558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="va2bRUJLRuhONRcJH/q9AKSgkmGIFGDn2ucpSoCTRopj06gvr1SWSVf3M6/nvzPku5XXO8wu/LZf2DgfjHJNDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Tue, 03 Nov 2026 17:26:12 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://kapertech.github.io/faceid-updates/Facey-1.3.zip" length="2523179" type="application/octet-stream" sparkle:edSignature="am7ClP3SVibPhZQWqq1xwdeyUEbh+qVA3/ywEJlNNzsl36bBEWf9UREf0swvsgVEzzLvZ7bJuc2jeaUgvbv4DQ=="/>
+            <enclosure url="https://facey.kaper.tech/Facey-1.3.zip" length="2523179" type="application/octet-stream" sparkle:edSignature="am7ClP3SVibPhZQWqq1xwdeyUEbh+qVA3/ywEJlNNzsl36bBEWf9UREf0swvsgVEzzLvZ7bJuc2jeaUgvbv4DQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://kapertech.github.io/faceid-updates/Facey5-4.delta" sparkle:deltaFrom="4" length="102450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3CqqfbG+JPXe61aCC+6khc4em4zX3EhYS7/4sFLyDIke+Ns4QWI4fZhd72g+hhoMz7T/FRfE5BmS02q0+/9LBQ=="/>
                 <enclosure url="https://kapertech.github.io/faceid-updates/Facey5-3.delta" sparkle:deltaFrom="3" length="212898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hn5r6YG1YDgETQbBFfL/RrSR3629Xdfn760Kf2P+0ojKMZpgQp/mNhHdHgXdR8DDkzxbMWpNnRK9XAhGP1C4BQ=="/>
@@ -21,21 +35,10 @@
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://kapertech.github.io/faceid-updates/FaceID-1.2.zip" length="2524267" type="application/octet-stream" sparkle:edSignature="J/DxeyNKcKQwaNDUyPYLZQlvTPGkhJdqYgvDfYPw0UWRDubEOpBml9r3h+Y7L04V47y2UmqANDhtR71nzHrxAQ=="/>
+            <enclosure url="https://facey.kaper.tech/FaceID-1.2.zip" length="2524267" type="application/octet-stream" sparkle:edSignature="J/DxeyNKcKQwaNDUyPYLZQlvTPGkhJdqYgvDfYPw0UWRDubEOpBml9r3h+Y7L04V47y2UmqANDhtR71nzHrxAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://kapertech.github.io/faceid-updates/Face%20ID4-3.delta" sparkle:deltaFrom="3" length="205042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eR9LBM1gSwGCUEsEtYLkY7cVS2ivmSQnZRvXU9cHpJElMD4Bs7L5FEnLsESJ3xhl2ct7x0GyMtKpTJMwe/wSCA=="/>
                 <enclosure url="https://kapertech.github.io/faceid-updates/Face%20ID4-2.delta" sparkle:deltaFrom="2" length="350918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HTHSrACpPH/MtYuMqDYSr08Ar24+1mkWLhHdVGLQegQDN0bOSU8CF6rxqyDOSz74+DnKmabNlp0xvGKfJGiqAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Tue, 03 Nov 2026 15:48:15 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://kapertech.github.io/faceid-updates/FaceID-1.1.1.zip" length="2482769" type="application/octet-stream" sparkle:edSignature="H793njmLITXcz385nufNjxoHx87zT1AUiacCQEufKIIUR6QRQ43zAvbQuAY5PRL4hhRqj4wnzvecTGI4isJIAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://kapertech.github.io/faceid-updates/Face%20ID3-2.delta" sparkle:deltaFrom="2" length="235346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oNRMfMcFfbtbUyRwMwDKCTZYTJmhwG2EK0UDvTLBZXQsyRAobVm4cckWKUSFXEJ7Tx8b/OUiSdTmCX9NFN7oCA=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -45,7 +48,7 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://kapertech.github.io/faceid-updates/FaceID-1.1.zip" length="1999488" type="application/octet-stream" sparkle:edSignature="D/3NuYrST72hTNa9WwJLyOK1PnKNfjvkCOIW17WIZ67a0q4aQbXPBsprsicUHQ1/pCajr5s/IOlHj/auCMeNBg=="/>
+            <enclosure url="https://facey.kaper.tech/FaceID-1.1.zip" length="1999488" type="application/octet-stream" sparkle:edSignature="D/3NuYrST72hTNa9WwJLyOK1PnKNfjvkCOIW17WIZ67a0q4aQbXPBsprsicUHQ1/pCajr5s/IOlHj/auCMeNBg=="/>
         </item>
     </channel>
 </rss>
