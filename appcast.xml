@@ -3,6 +3,18 @@
     <channel>
         <title>Face ID</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Tue, 03 Nov 2026 16:05:56 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://kapertech.github.io/faceid-updates/FaceID-1.2.zip" length="2524267" type="application/octet-stream" sparkle:edSignature="J/DxeyNKcKQwaNDUyPYLZQlvTPGkhJdqYgvDfYPw0UWRDubEOpBml9r3h+Y7L04V47y2UmqANDhtR71nzHrxAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://kapertech.github.io/faceid-updates/Face%20ID4-3.delta" sparkle:deltaFrom="3" length="205042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eR9LBM1gSwGCUEsEtYLkY7cVS2ivmSQnZRvXU9cHpJElMD4Bs7L5FEnLsESJ3xhl2ct7x0GyMtKpTJMwe/wSCA=="/>
+                <enclosure url="https://kapertech.github.io/faceid-updates/Face%20ID4-2.delta" sparkle:deltaFrom="2" length="350918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HTHSrACpPH/MtYuMqDYSr08Ar24+1mkWLhHdVGLQegQDN0bOSU8CF6rxqyDOSz74+DnKmabNlp0xvGKfJGiqAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Tue, 03 Nov 2026 15:48:15 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
