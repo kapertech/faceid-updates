@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Facey – ontgrendel je Mac met je gezicht</title>
+<meta name="description" content="Facey ontgrendelt je Mac zodra je ernaar kijkt, met de camera die je al hebt. Alles blijft op je Mac.">
+<link rel="icon" href="icon.png">
+<style>
+  :root {
+    --bg: #f4f6f8; --surface: #ffffff; --text: #0e141a; --muted: #56636f;
+    --border: #dce3ea; --accent: #12945f; --on-accent: #ffffff; --hero: #e5f5ed;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0a0e13; --surface: #10171f; --text: #e8eef4; --muted: #9aa8b6;
+      --border: #1c2630; --accent: #3ddc97; --on-accent: #06150f; --hero: #0f1c17;
+    }
+    .icon-light { display: none; }
+    .icon-dark { display: block; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 17px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif;
+  }
+  main { max-width: 980px; margin: 0 auto; padding: 72px 24px 48px; text-align: center; }
+  .icon-dark { display: none; }
+  .app-icon { width: 152px; height: 152px; margin: 0 auto; }
+  h1 {
+    margin: 28px 0 0; font: 800 clamp(36px, 7vw, 60px)/1.05 ui-rounded, -apple-system, sans-serif;
+    letter-spacing: -0.02em;
+  }
+  .lead { margin: 18px auto 0; max-width: 560px; color: var(--muted); font-size: 19px; }
+  .download {
+    display: inline-flex; align-items: center; gap: 10px; margin-top: 36px;
+    padding: 0 28px; height: 54px; border-radius: 14px; background: var(--accent);
+    color: var(--on-accent); font-weight: 700; font-size: 17px; text-decoration: none;
+  }
+  .download:hover { filter: brightness(1.06); }
+  .download:focus-visible { outline: 3px solid var(--text); outline-offset: 3px; }
+  .meta { margin-top: 14px; color: var(--muted); font-size: 14px; }
+  .features {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px;
+    margin-top: 64px; text-align: left;
+  }
+  .feature { background: var(--surface); border: 1px solid var(--border); border-radius: 18px; padding: 22px; }
+  .feature svg { width: 24px; height: 24px; color: var(--accent); }
+  .feature h2 { margin: 12px 0 4px; font-size: 17px; }
+  .feature p { margin: 0; color: var(--muted); font-size: 15px; }
+  .note {
+    margin: 40px auto 0; max-width: 720px; padding: 18px 22px; border-radius: 16px;
+    background: var(--hero); color: var(--muted); font-size: 15px; text-align: left;
+  }
+  footer { padding: 32px 24px 48px; text-align: center; color: var(--muted); font-size: 13px; }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <img class="app-icon icon-light" src="icon.png" alt="Facey-icoon">
+  <img class="app-icon icon-dark" src="icon-dark.png" alt="Facey-icoon">
+  <h1>Ontgrendel je Mac<br>met een blik</h1>
+  <p class="lead">Facey maakt van je camera een sleutel. Kijk naar je Mac en hij gaat open, net als je telefoon.</p>
+  <a class="download" href="download/">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>
+    Download voor Mac
+  </a>
+  <p class="meta">macOS 14 of nieuwer · Apple-chip en Intel</p>
+
+  <section class="features" aria-label="Kenmerken">
+    <div class="feature">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M13 2L4 14h7l-1 8 9-12h-7z"/></svg>
+      <h2>In een oogwenk</h2>
+      <p>Herkend in minder dan een seconde, zonder klikken. Ook als je terugkomt van koffie halen.</p>
+    </div>
+    <div class="feature">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg>
+      <h2>Blijft op je Mac</h2>
+      <p>Geen foto's, geen cloud. Je gezichtsprofiel is versleuteld en verlaat je Mac nooit.</p>
+    </div>
+    <div class="feature">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/></svg>
+      <h2>Het gewone vergrendelscherm</h2>
+      <p>Facey werkt op het echte macOS-vergrendelscherm. Je wachtwoord en Touch ID blijven gewoon werken.</p>
+    </div>
+  </section>
+
+  <p class="note">Facey gebruikt de camera van je Mac. Die meet geen diepte zoals de camera van een iPhone, dus een goede foto van je gezicht kan Facey misleiden. Zet in de app <strong>Knipperen vereist</strong> aan voor extra bescherming.</p>
+</main>
+<footer>
+  © 2026 Kaper Tech · Facey is niet gelieerd aan Apple. Face ID is een handelsmerk van Apple Inc.
+</footer>
+</body>
+</html>
