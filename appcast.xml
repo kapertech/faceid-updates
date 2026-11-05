@@ -3,6 +3,21 @@
     <channel>
         <title>Face ID</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Thu, 05 Nov 2026 19:33:54 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://facey.kaper.tech/Facey-1.4.1.zip" length="2658415" type="application/octet-stream" sparkle:edSignature="9T4Fz66HoJCTs7LIAbAJ+62puo1Ja7P6UzYMVDe0qhvPtsivaxQnsV+iurNoZCtbF08TMFxVdKl9kuhUerccBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://facey.kaper.tech/Facey9-8.delta" sparkle:deltaFrom="8" length="254586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7oADNBDYJLgN+b2M34SJabiuOXF6XF+3jkqO6BTz0rZqQhHfaT05YpDNadGbyUvjM6HUtGI89QARNa8IrVzfAg=="/>
+                <enclosure url="https://facey.kaper.tech/Facey9-7.delta" sparkle:deltaFrom="7" length="399382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wzPOTCmkULzqK2WtO1ZGISO5BYgFR40GBz3wa0lIHe5zQ0Fu1zmxzUPxeaTqyxSOPcO8tjzkU4VF7uqbxR+BCA=="/>
+                <enclosure url="https://facey.kaper.tech/Facey9-6.delta" sparkle:deltaFrom="6" length="415658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pNJVvKUpdwBiWqGdjD4P3OwydslvRv6ubRAD0PT0CNN4PhyEb7NqReqXamR0690GK/QBRQV30r2LIyUBHvi8AA=="/>
+                <enclosure url="https://facey.kaper.tech/Facey9-5.delta" sparkle:deltaFrom="5" length="414066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tyEJEp2MBMhhIAeVI4GPsWQfOn1rKmr/SGTbK8fMqXfdiNBtTblMMTqUsprHn2FqN+1q3u/ob0rSMpLlngl6DA=="/>
+                <enclosure url="https://facey.kaper.tech/Facey9-4.delta" sparkle:deltaFrom="4" length="415474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q7pv2vPAoIcLhf1Na1UG6das81H6cqunz+OpuiW37DpM6pcFBcVPLuOF0KURUCUOdk+Qtq9WFLyr3ruEtfMfDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Thu, 05 Nov 2026 19:00:21 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -30,20 +45,6 @@
                 <enclosure url="https://facey.kaper.tech/Facey7-4.delta" sparkle:deltaFrom="4" length="218922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q1dpreFBWAl4yNg+sVRTeocgLQPM5XPEydktR+UldW1UTJ8yFgDQWzp8ZJ3Gp1H/OkinVRoN2SaUDTRgKhzrCg=="/>
                 <enclosure url="https://facey.kaper.tech/Facey7-3.delta" sparkle:deltaFrom="3" length="267102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gU31WPN/Zl/ZuDCIVQK9b9RqMQVnLN81HjdextID5FX0ZrUuH2jMVWBvmAOGkpR6mP2fwLHdvK2PduEaE7yiAQ=="/>
                 <enclosure url="https://facey.kaper.tech/Facey7-2.delta" sparkle:deltaFrom="2" length="391370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RrYifaT9XIEOZS+WHELHl9mxsevcZ1WFAbgoxdb8SFTUaYy/C3wNTsMUO2A8UvKUNhtAT9He9QLaoZmlrnNaAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Tue, 03 Nov 2026 18:17:06 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://facey.kaper.tech/Facey-1.3.1.zip" length="2523171" type="application/octet-stream" sparkle:edSignature="JXF44NJWy/sSf/M7h/4RkEsVVQYHioM8I/fAqe83LXkV2wMyN5yYObBD8hheZRnZyh4devzip7XLBkqLoKFvDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://facey.kaper.tech/Facey6-5.delta" sparkle:deltaFrom="5" length="12018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E2QUaFxNkbIqdE6VpkHOvmfNYTN8P15I1WpK8FdXeCOvOykcd3/O44YXux+eGdL3B7+A5CLKxWcEbLf2JsrJCQ=="/>
-                <enclosure url="https://facey.kaper.tech/Facey6-4.delta" sparkle:deltaFrom="4" length="101910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dMxq7MMmfNxZzEMldVBxwTQJce7m01HaTr7ScTCtZ6LsD5EVxr7bQe9Z6z5IsLs6XBhiawghVVVNU0PmaZJSAw=="/>
-                <enclosure url="https://facey.kaper.tech/Facey6-3.delta" sparkle:deltaFrom="3" length="210314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SzNXMvsmiyty7gc86XKo+hrB+XqDBfsg6/ye0+zx443rmP0u6jXX/0UXPXQE0KwwS+U9hGPvfkfljz6aYE/8DQ=="/>
-                <enclosure url="https://facey.kaper.tech/Facey6-2.delta" sparkle:deltaFrom="2" length="354558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="va2bRUJLRuhONRcJH/q9AKSgkmGIFGDn2ucpSoCTRopj06gvr1SWSVf3M6/nvzPku5XXO8wu/LZf2DgfjHJNDA=="/>
             </sparkle:deltas>
         </item>
         <item>
