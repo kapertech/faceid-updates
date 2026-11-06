@@ -3,6 +3,21 @@
     <channel>
         <title>Face ID</title>
         <item>
+            <title>1.4.3</title>
+            <pubDate>Fri, 06 Nov 2026 08:27:20 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://facey.kaper.tech/Facey-1.4.3.zip" length="2668067" type="application/octet-stream" sparkle:edSignature="5nuTqp1uHrsAVUzIw5MLg/N54bePiRP7dFHBXUNuMfnUe2v7OwXtofwxeE0lGSEAlihJ/SrPpMl9CcfsiPWrAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://facey.kaper.tech/Facey11-10.delta" sparkle:deltaFrom="10" length="179170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tbZ5K1JTBK6dOpEWIqauygnOmThsgLGHafEMvrSbjuUlWf5wQxgJPrRbuICQL9n5d4H/JvpjB188Vi3PjHF2Dg=="/>
+                <enclosure url="https://facey.kaper.tech/Facey11-9.delta" sparkle:deltaFrom="9" length="168806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DxqHdx1mnt5/lRL4+ybiPtGpxA+BvViR7skIihrd3RP2IVwthpUpWOpjNc/jeAkn76CRInVO3yp1a2dZ573PCg=="/>
+                <enclosure url="https://facey.kaper.tech/Facey11-8.delta" sparkle:deltaFrom="8" length="267002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="No+eL3xWHC5wQhwJcawQAQX4O4FPWDkv7BmWT5s1g3Y/GFb11Qa72X32WNSVdE/nAkaCT0oqdP+wdIWFbuMoBQ=="/>
+                <enclosure url="https://facey.kaper.tech/Facey11-7.delta" sparkle:deltaFrom="7" length="406402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M5I6DLFeinE5guTP6c7x9eUbjkzPdArNLFM92QpoBLbLfYm61oXuT7/hrceNmtfczJjxT3qDsXL2owAer4Z5CA=="/>
+                <enclosure url="https://facey.kaper.tech/Facey11-6.delta" sparkle:deltaFrom="6" length="424906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BnEb9dXHEdxSHTjf5roB7hBU9Gb6e4ohSFfO9dz9K+zSzaHv3REwK5kmA2dDbWZqyPJfE2ULOHmVbdQGUT49Dg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.2</title>
             <pubDate>Thu, 05 Nov 2026 20:01:48 +0100</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://facey.kaper.tech/Facey9-6.delta" sparkle:deltaFrom="6" length="415658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pNJVvKUpdwBiWqGdjD4P3OwydslvRv6ubRAD0PT0CNN4PhyEb7NqReqXamR0690GK/QBRQV30r2LIyUBHvi8AA=="/>
                 <enclosure url="https://facey.kaper.tech/Facey9-5.delta" sparkle:deltaFrom="5" length="414066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tyEJEp2MBMhhIAeVI4GPsWQfOn1rKmr/SGTbK8fMqXfdiNBtTblMMTqUsprHn2FqN+1q3u/ob0rSMpLlngl6DA=="/>
                 <enclosure url="https://facey.kaper.tech/Facey9-4.delta" sparkle:deltaFrom="4" length="415474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q7pv2vPAoIcLhf1Na1UG6das81H6cqunz+OpuiW37DpM6pcFBcVPLuOF0KURUCUOdk+Qtq9WFLyr3ruEtfMfDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Thu, 05 Nov 2026 19:00:21 +0100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://facey.kaper.tech/Facey-1.4.zip" length="2643883" type="application/octet-stream" sparkle:edSignature="KTM2Gcv5pNVfoTqVrXk/SA0jUMN3Bkr5u7lC1Mydn4zC0XFBFfhDzQYfS6XILLlfmqBP7BFp32NAx3YNv9f+Cg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://facey.kaper.tech/Facey8-7.delta" sparkle:deltaFrom="7" length="364450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NZ0HMXeuVhYB+MsDh8vA+xaHk6mKltRzfDVC+NaoywEpbm8B7sEVyezWZuGyn3oSDWaTCSlBQj2tz/tDhPf0BA=="/>
-                <enclosure url="https://facey.kaper.tech/Facey8-6.delta" sparkle:deltaFrom="6" length="376782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wkFQMoVVCVpL8tg88m8VlBC+CgRcrBOR5L1N610CbLlrmRzjJS3cpzbB+CHUbwHiJiXYwAuRE+OZzA1jEGeQDA=="/>
-                <enclosure url="https://facey.kaper.tech/Facey8-5.delta" sparkle:deltaFrom="5" length="375402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0+K60oStXFCmJbH3UNoOiCTFYzqf4NcnHfdBmrSRwef4Nc/dstiG9Eo2pO3u43q0on0ahBIfzMFxCCaX2saNDg=="/>
-                <enclosure url="https://facey.kaper.tech/Facey8-4.delta" sparkle:deltaFrom="4" length="380622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d1oi46/3XtZj0GN4tMTjMTZZzHWmlCerK6gODRd29zT8Scf3iVN2hzIkG8gLwYQMhXCdRRzxevQN19xLMKXsAQ=="/>
-                <enclosure url="https://facey.kaper.tech/Facey8-3.delta" sparkle:deltaFrom="3" length="421666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YY8Vt0Jv3FWCI+WeSglz8xlo9de+z1ZPbs4yEOK0X7p4e+FLsZXf4xWQtyF79Bk0RhpRplxryFdMjIryR8VwCA=="/>
             </sparkle:deltas>
         </item>
         <item>
